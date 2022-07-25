@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @professor-oats
+- 👋 Hi, I’m @professor-oats.
 - 👀 I’m interested in ... Web development, programming, art.
-- 🌱 I’m currently learning ... Javascript, C++, Raytracing, Pixelart.
+- 🌱 I’m currently learning ... Javascript, COBOL.
 - 💞️ I’m looking to collaborate on ... Anything fun and related or non-related.
 - 📫 How to reach me ... I don't know.
 
