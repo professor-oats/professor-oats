@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @professor-oats.
 - 👀 I’m interested in ... Web development, programming, art, and chicks, of course.
-- 🌱 I’m currently learning ... Javascript, COBOL, Spanish.
+- 🌱 I’m currently learning ... Wordpress, Javascript, PHP, Spanish.
 - 💞️ I’m looking to collaborate on ... Anything fun and related or non-related.
 - 📫 How to reach me ... I don't know.
 
