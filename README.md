@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @professor-oats.
-- 👀 I’m interested in ... Web development, programming, art, and chicks, of course.
-- 🌱 I’m currently learning ... Wordpress, C++, OGRE SDK, Spanish.
+- 👀 I’m interested in ... Web Development, programming, art, 3D-design and Game Development
+- 🌱 I’m currently learning ... C++, OGRE SDK, Blender, Character: Proportions and Shading
 - 💞️ I’m looking to collaborate on ... Anything fun and related or non-related.
 - 📫 How to reach me ... I don't know.
 
