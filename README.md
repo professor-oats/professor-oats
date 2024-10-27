@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @professor-oats.
-- 👀 I’m interested in ... Web Development, programming, art, 3D-design and Game Development.
+- 👀 I’m interested in ... Web Development, Programming, Art, 3D-design and Game Development.
 - 🌱 I’m currently learning ... Pentesting with Python.
 - 💞️ I’m looking to collaborate on ... Anything fun and related or non-related.
 - 📫 How to reach me ... I don't know.
