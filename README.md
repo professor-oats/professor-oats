@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @professor-oats.
 - 👀 I’m interested in ... Web Development, Programming, Art, 3D-design and Game Development.
-- 🌱 I’m currently learning ... Souvereign Cloud Building in Kubernetes.
+- 🌱 I’m currently learning ... More Native JavaScript.
 - 💞️ I’m looking to collaborate on ... Anything fun and related or non-related.
 - 📫 How to reach me ... I don't know.
 
